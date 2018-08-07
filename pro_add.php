@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>スタッフ追加フォーム</title>
+<title>商品追加フォーム</title>
 </head>
 <body>
 
